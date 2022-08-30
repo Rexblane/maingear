@@ -1,0 +1,6 @@
+name: MainGear
+version: '${version}'
+main: rok.maingear.Main
+api-version: 1.16
+authors: [ Rok ]
+description: A modular essentials plugin
